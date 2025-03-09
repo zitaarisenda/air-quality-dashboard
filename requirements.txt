@@ -1,5 +1,6 @@
 streamlit
 gdown
+Pillow
 pandas
 numpy
 matplotlib
