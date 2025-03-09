@@ -4,6 +4,7 @@
 streamlit run dashboard2.py
 
 ### Link Github
+file yang dipakai dashboard2.py
 https://github.com/zitaarisenda/air-quality-dashboard
 
 ### Cara menjalankan dashboard
