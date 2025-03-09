@@ -11,3 +11,6 @@ https://github.com/zitaarisenda/air-quality-dashboard
 https://air-quality-dashboard-amwapqww2x5b4j3gnjgvy7.streamlit.app/
 
 Scroll kebawah dan pilih menu pada sidebar
+
+### Link G Collab:
+https://colab.research.google.com/drive/1NVmEqesqxvcUuZFf5AvlHxGM89nrGs09?usp=sharing
