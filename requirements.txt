@@ -1,0 +1,9 @@
+streamlit
+gdown
+pandas
+numpy
+matplotlib
+seaborn
+adjustText
+folium
+streamlit_folium
