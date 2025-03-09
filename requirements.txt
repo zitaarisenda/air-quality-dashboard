@@ -9,5 +9,3 @@ folium
 streamlit_folium
 Pillow
 requests
-zipfile36
-os
